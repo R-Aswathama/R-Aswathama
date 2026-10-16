@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Sharma</title>
+  <desc id="desc">Software Engineer at Microsoft. Backend engineering, distributed systems, and AI engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="58%" stop-color="#0E1729"/>
+      <stop offset="100%" stop-color="#14122C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <circle cx="1040" cy="70" r="180" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+
+  <text x="72" y="118" fill="#93C5FD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3.2" font-weight="600">SOFTWARE ENGINEER  ·  MICROSOFT</text>
+  <text x="72" y="188" fill="#F8FAFC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="600">Rahul Sharma</text>
+  <rect x="72" y="214" width="92" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="262" fill="#CBD5E1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Backend Engineering  ·  Distributed Systems  ·  AI Engineering</text>
+  <text x="72" y="304" fill="#94A3B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Reliable services. Clear architecture. Products that ship.</text>
+
+  <g transform="translate(800,92)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 88 H158" stroke="#334155" stroke-width="1.6"/>
+    <path d="M270 88 C304 88 304 32 318 32" stroke="#3B82F6" stroke-width="1.6" stroke-opacity="0.85"/>
+    <path d="M270 88 C304 88 304 144 318 144" stroke="#A78BFA" stroke-width="1.6" stroke-opacity="0.9"/>
+    <rect x="0" y="64" width="112" height="48" rx="8" fill="#0B1220" stroke="#3B82F6"/>
+    <text x="56" y="93" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">API</text>
+    <rect x="158" y="64" width="112" height="48" rx="8" fill="#0B1220" stroke="#64748B"/>
+    <text x="214" y="93" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Service</text>
+    <rect x="318" y="8" width="112" height="48" rx="8" fill="#0B1220" stroke="#7C3AED"/>
+    <text x="374" y="37" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Data</text>
+    <rect x="318" y="120" width="112" height="48" rx="8" fill="#0B1220" stroke="#A78BFA"/>
+    <text x="374" y="149" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Model</text>
+  </g>
+</svg>

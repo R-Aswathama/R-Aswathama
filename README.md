@@ -1,91 +1,104 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" alt="Rahul Sharma — Software Engineer at Microsoft. Backend engineering, distributed systems, and AI engineering." width="100%" />
+</p>
 
-# Rahul Sharma
+<h3 align="center">
+  <samp>
+    &gt; <b><a href="https://www.linkedin.com/in/rasharma5076/">Rahul Sharma</a></b>
+    · Software Engineer @ Microsoft
+  </samp>
+</h3>
 
-### Software Engineer @ Microsoft
+<p align="center">
+  <samp>「 Backend systems, distributed architecture, and AI products that ship. 」</samp>
+</p>
 
-**Backend Engineering · Distributed Systems · AI Engineering**
+<p align="center">
+  <a href="https://systemdesignsimulator.in">
+    <img src="https://img.shields.io/badge/System%20Design%20Simulator-live-3B82F6?style=flat-square" alt="System Design Simulator" />
+  </a>
+  <a href="https://tryresumeiq.com">
+    <img src="https://img.shields.io/badge/TryResumeIQ-live-7C3AED?style=flat-square" alt="TryResumeIQ" />
+  </a>
+  <a href="https://www.linkedin.com/in/rasharma5076/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Building reliable systems and practical AI-powered products.
+<p align="center">
+  <a href="https://systemdesignsimulator.in"><b>Simulator</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://tryresumeiq.com"><b>TryResumeIQ</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rasharma5076/"><b>LinkedIn</b></a>
+</p>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-<a href="https://tryresumeiq.com">
-  <img src="https://img.shields.io/badge/TryResumeIQ-Visit%20Project-2563EB?style=for-the-badge" alt="TryResumeIQ"/>
-</a>
-<a href="https://systemdesignsimulator.in">
-  <img src="https://img.shields.io/badge/System%20Design-Explore%20Simulator-7C3AED?style=for-the-badge" alt="System Design Simulator"/>
-</a>
+## About
 
-<br/><br/>
+I am a software engineer at Microsoft. Day to day that means backend services, cloud systems, data pipelines, and the operational work that keeps them dependable.
 
-<a href="https://www.linkedin.com/in/rasharma5076/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/R-Aswathama">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+Outside that, I build products that force the same questions in public: how a design fails under load, how retrieval quality shows up for a user, and how an interface makes architecture legible.
 
-</div>
+- **Backend.** C#, .NET, REST APIs, distributed systems
+- **Cloud & data.** Azure, Apache Spark, Kusto
+- **AI engineering.** LLM applications, RAG, semantic search
+- **Product surface.** React, TypeScript
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## About Me
+## Selected work
 
-I'm a Software Engineer at Microsoft, working on software
-engineering problems across backend services, cloud systems,
-data pipelines, and user-facing experiences.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://systemdesignsimulator.in">
+        <img src="./assets/card-system-design.svg" alt="System Design Simulator — compose systems, simulate traffic, inject failure" width="100%" />
+      </a>
+      <br /><br />
+      An interactive lab for system design: component graphs, request simulation, performance metrics, and failure injection.
+      <br /><br />
+      <a href="https://systemdesignsimulator.in"><b>Open the simulator</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tryresumeiq.com">
+        <img src="./assets/card-resumeiq.svg" alt="TryResumeIQ — analyze a resume against a job description" width="100%" />
+      </a>
+      <br /><br />
+      An AI product that compares a resume to a job description, names the gaps, and helps improve the application.
+      <br /><br />
+      <a href="https://tryresumeiq.com"><b>Open TryResumeIQ</b></a>
+    </td>
+  </tr>
+</table>
 
-Outside my day-to-day engineering work, I build independent
-products to explore system design, AI applications, and
-practical developer tooling.
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-- ⚙️ **Backend:** C#, .NET, REST APIs, distributed systems
-- ☁️ **Cloud & Data:** Azure, Apache Spark, Kusto
-- 🤖 **AI Engineering:** LLM applications, RAG, semantic search
-- 💻 **Frontend:** React, TypeScript
-- 🛠️ **Interests:** System design, reliability, scalable architectures
+## Stack
 
-## Featured Projects
-
-### 01 · System Design Simulator
-
-An interactive environment for learning and experimenting with
-system design through component-based architectures, request
-simulation, performance metrics, and failure injection.
-
-**Explore:** [systemdesignsimulator.in](https://systemdesignsimulator.in)
-
-### 02 · TryResumeIQ
-
-An AI-powered platform that helps job seekers analyze resumes
-against job descriptions, identify gaps, and improve their
-job applications.
-
-**Explore:** [tryresumeiq.com](https://tryresumeiq.com)
-
-## Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,cplusplus,ts,react,docker&perline=8" alt="C#, .NET, Azure, Python, C++, TypeScript, React, Docker" />
+</p>
 
 | Area | Technologies |
-|---|---|
+| --- | --- |
 | Languages | C#, C++, Python, TypeScript, JavaScript, Scala |
 | Backend | .NET, REST APIs, distributed systems |
-| Cloud & Data | Azure, Apache Spark, Kusto |
+| Cloud & data | Azure, Apache Spark, Kusto |
 | Frontend | React, TypeScript |
-| AI Engineering | LLMs, RAG, semantic search |
+| AI engineering | LLMs, RAG, semantic search |
 | Tools | Git, Docker, Azure CLI, PowerShell |
 
-## Current Focus
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-- Designing reliable and scalable backend systems
-- Understanding distributed systems and system architecture
-- Exploring retrieval quality and production-oriented RAG
-- Building practical AI-powered developer tools
+## Now
 
----
+- Designing backend systems that stay reliable as they grow
+- Studying distributed systems from the failure modes outward
+- Improving retrieval quality in production-shaped RAG
+- Shipping practical AI tools, not demos
 
-<div align="center">
-
-**Build · Learn · Experiment · Improve**
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" alt="Build. Learn. Experiment. Improve." width="100%" />
+</p>
