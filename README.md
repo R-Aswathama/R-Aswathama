@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Rahul Sharma — Software Engineer at Microsoft. Backend engineering, distributed systems, and AI engineering." width="100%" />
-</p>
-
 <h3 align="center">
   <samp>
     &gt; <b><a href="https://www.linkedin.com/in/rasharma5076/">Rahul Sharma</a></b>
