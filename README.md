@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/rasharma5076/"><b>LinkedIn</b></a>
 </p>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/rule.svg" alt="" width="100%" />
 
 ## About
 
@@ -46,7 +46,7 @@ Outside that, I build products that force the same questions in public: how a de
 - **AI engineering.** LLM applications, RAG, semantic search
 - **Product surface.** React, TypeScript
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/rule.svg" alt="" width="100%" />
 
 ## Selected work
 
@@ -73,12 +73,12 @@ Outside that, I build products that force the same questions in public: how a de
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/rule.svg" alt="" width="100%" />
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,cplusplus,ts,react,docker&perline=8" alt="C#, .NET, Azure, Python, C++, TypeScript, React, Docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,cpp,ts,react,docker&perline=8" alt="C#, .NET, Azure, Python, C++, TypeScript, React, Docker" />
 </p>
 
 | Area | Technologies |
@@ -90,7 +90,7 @@ Outside that, I build products that force the same questions in public: how a de
 | AI engineering | LLMs, RAG, semantic search |
 | Tools | Git, Docker, Azure CLI, PowerShell |
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/rule.svg" alt="" width="100%" />
 
 ## Now
 
