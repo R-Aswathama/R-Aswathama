@@ -22,6 +22,9 @@
   <a href="https://topmate.io/rahul_sharma170">
     <img src="https://img.shields.io/badge/Topmate-book%20a%20call-111827?style=flat-square" alt="Book a call on Topmate" />
   </a>
+  <a href="https://x.com/rasharma7094">
+    <img src="https://img.shields.io/badge/X-follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 <p align="center">
@@ -32,6 +35,8 @@
   <a href="https://www.linkedin.com/in/rasharma5076/"><b>LinkedIn</b></a>
   &nbsp;·&nbsp;
   <a href="https://topmate.io/rahul_sharma170"><b>Topmate</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/rasharma7094"><b>X</b></a>
 </p>
 
 <img src="./assets/rule.svg" alt="" width="100%" />
