@@ -78,9 +78,3 @@ Outside that, I build products that force the same questions in public: how a de
     </td>
   </tr>
 </table>
-
-<img src="./assets/rule.svg" alt="" width="100%" />
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="Build. Learn. Experiment. Improve." width="100%" />
-</p>
