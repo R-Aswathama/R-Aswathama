@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Topmate-book%20a%20call-111827?style=flat-square" alt="Book a call on Topmate" />
   </a>
   <a href="https://x.com/rasharma7094">
-    <img src="https://img.shields.io/badge/X-follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/static/v1?label=&message=follow&color=000000&logo=x&logoColor=white&style=flat-square" alt="Follow on X" />
   </a>
 </p>
 
