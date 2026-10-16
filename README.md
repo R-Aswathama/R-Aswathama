@@ -81,30 +81,6 @@ Outside that, I build products that force the same questions in public: how a de
 
 <img src="./assets/rule.svg" alt="" width="100%" />
 
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,cpp,ts,react,docker&perline=8" alt="C#, .NET, Azure, Python, C++, TypeScript, React, Docker" />
-</p>
-
-| Area | Technologies |
-| --- | --- |
-| Languages | C#, C++, Python, TypeScript, JavaScript, Scala |
-| Backend | .NET, REST APIs, distributed systems |
-| Cloud & data | Azure, Apache Spark, Kusto |
-| Frontend | React, TypeScript |
-| AI engineering | LLMs, RAG, semantic search |
-| Tools | Git, Docker, Azure CLI, PowerShell |
-
-<img src="./assets/rule.svg" alt="" width="100%" />
-
-## Now
-
-- Designing backend systems that stay reliable as they grow
-- Studying distributed systems from the failure modes outward
-- Improving retrieval quality in production-shaped RAG
-- Shipping practical AI tools, not demos
-
 <p align="center">
   <img src="./assets/footer.svg" alt="Build. Learn. Experiment. Improve." width="100%" />
 </p>
